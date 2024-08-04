@@ -12,7 +12,7 @@ I'm Geunsik Bae, currently researching autonomous MAVs at UNIST ASL.
 
 - Programming languages: Python, C++
 - Robot Operating System (ROS)
-- Simulation environment: Gazebo, AirSim
+- Simulation environment: Gazebo, AirSim, JSBSim, PX4-sitl
 
 #### Ongoing Projects
 
